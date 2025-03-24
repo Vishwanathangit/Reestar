@@ -10,5 +10,5 @@ Features
 
 How to View the Project  
 1. **Download the repository or clone it using:  
- 
+ https://github.com/Vishwanathangit/Reestar.git
 2. Open the index.html file in any web browser.  
