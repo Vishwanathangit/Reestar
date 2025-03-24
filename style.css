@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.navbar__desc{
+    color: gray;
+}
+.container__box{
+ width: 300px;
+ /* height: 300px; */
+ border-color: black;
+ border-style: solid;
+ border-width: 2px;
+ display: inline-block;
+ padding: 10px;
+}
+.container__button{
+    background-color: black;
+    color: white;
+    border-style: none;
+    padding: 10px;
+    margin-top: 10px;
+}
+.container{
+    text-align: center;
+    margin-top: 20px;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+.contact__desc{
+    display: inline-block;
+    text-align: center;
+}
+.contact__button{
+    margin-top: 10px;
+    background-color: yellow;
+    color: black;
+    width: 200px;
+    padding: 10px;
+    border-style: none;
+
+}
+ .all{
+    margin: 20px;
+}  
