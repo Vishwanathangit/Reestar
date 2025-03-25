@@ -51,6 +51,11 @@
     border-style: none;
 
 }
+
+table {
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
  .all{
     margin: 20px;
 }  
